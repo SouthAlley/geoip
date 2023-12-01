@@ -12,7 +12,7 @@
 
 https://cdn.jsdelivr.net/gh/SouthAlley/geoip@release/Private-GeoIP-CN.mmdb
 
-https://cdn.jsdelivr.net/gh/SouthAlley/geoip/release/GeoIP-CN.mmdb
+https://cdn.jsdelivr.net/gh/SouthAlley/geoip@release/GeoIP-CN.mmdb
 
 https://raw.githubusercontent.com/SouthAlley/geoip/release/Private-GeoIP-CN.mmdb
 

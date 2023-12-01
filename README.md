@@ -14,12 +14,12 @@
 
 - **仅包含CN**：
   
-  | [GitHub](https://raw.githubusercontent.com/NobyDa/geoip/release/Private-GeoIP-CN.mmdb) | [CDN分发](https://cdn.jsdelivr.net/gh/NobyDa/geoip@release/Private-GeoIP-CN.mmdb) |
+  | [GitHub](https://raw.githubusercontent.com/NobyDa/geoip/release/Private-GeoIP-CN.mmdb) |
   | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 
 - **完整版**：
   
-  | [GitHub](https://raw.githubusercontent.com/NobyDa/geoip/release/Private-GeoIP.mmdb) | [CDN分发](https://cdn.jsdelivr.net/gh/NobyDa/geoip@release/Private-GeoIP.mmdb) |
+  | [GitHub](https://raw.githubusercontent.com/NobyDa/geoip/release/Private-GeoIP.mmdb) | 
   | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 
 ## License

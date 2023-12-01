@@ -10,7 +10,9 @@
   
   纯自用，如有另外的中国大陆 IP 数据源可提 issues
 
-https://cdn.jsdelivr.net/gh/NobyDa/geoip@release/Private-GeoIP-CN.mmdb
+https://cdn.jsdelivr.net/gh/SouthAlley/geoip@release/Private-GeoIP-CN.mmdb
+https://raw.githubusercontent.com/SouthAlley/geoip/release/Private-GeoIP-CN.mmdb
+
 
 ## License
 

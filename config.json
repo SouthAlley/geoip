@@ -105,9 +105,10 @@
       "type": "text",
       "action": "output",
       "args": {
-        "outputDir": "./publish",
-        "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
+        "outputName": "Private-GeoIP-CN.txt",
+        "wantedList": [
+          "cn"
+        ]
       }
     },
     {

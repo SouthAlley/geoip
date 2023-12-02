@@ -105,7 +105,7 @@
       "type": "text",
       "action": "output",
       "args": {
-        "outputName": "Private-GeoIP-CN.txt",
+        "outputDir": "./publish",
         "wantedList": [
           "cn"
         ]

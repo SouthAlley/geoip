@@ -76,6 +76,7 @@ jobs:
         run: |
           mkdir -p publish
           mv ./output/maxmind/*.mmdb ./output/maxmind/*.sha256sum ./publish/
+          cp -fpPR ./output/text ./publish
 
       - name: Git push assets to "release" branch
         run: |

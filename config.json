@@ -106,9 +106,7 @@
       "action": "output",
       "args": {
         "outputDir": "./publish",
-        "wantedList": [
-          "cn"
-        ]
+        "wantedList": ["cn"]
       }
     },
     {

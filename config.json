@@ -150,6 +150,13 @@
       }
     },
     {
+      "type": "maxmindMMDB",
+      "action": "output",
+      "args": {
+        "outputName": "GeoIP.mmdb"
+      }
+    },
+    {
       "type": "text",
       "action": "output"
     }

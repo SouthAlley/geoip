@@ -135,7 +135,7 @@
       "action": "output",
       "args": {
         "outputName": "Country.mmdb",
-        "wantedList": [
+        "overwriteList": [
           "cn",
           "private",
           "cloudflare",

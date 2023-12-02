@@ -105,8 +105,9 @@
       "type": "text",
       "action": "output",
       "args": {
-        "outputName": "geoip-only-cn-private.text",
-        "wantedList": ["cn"]
+        "outputDir": "./publish",
+        "wantedList": ["cn"],
+        "onlyIPType": "ipv6"
       }
     },
     {

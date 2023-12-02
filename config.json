@@ -102,19 +102,11 @@
       }
     },
     {
-      "type": "text",
+      "type": "surgeRuleSet",
       "action": "output",
       "args": {
         "outputDir": "./publish",
         "wantedList": ["cn"]
-      }
-    },
-    {
-      "type": "surgeRuleSet",
-      "action": "output",
-      "args": {
-        "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
       }
     },
     {

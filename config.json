@@ -107,7 +107,7 @@
       "args": {
         "outputDir": "./publish",
         "wantedList": ["cn"],
-        "onlyIPType": "ipv4,ipv6"
+        "onlyIPType": "ipv4"
       }
     },
     {

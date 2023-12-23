@@ -115,6 +115,10 @@
       "args": {
         "inputDir": "./data"
       }
+    },
+    {
+      "type": "private",
+      "action": "add"
     }
   ],
   "output": [
@@ -130,9 +134,18 @@
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
+        "outputName": "GeoIP-CN.mmdb",
+        "wantedList": ["cn", "private"]
+      }
+    },
+    {
+      "type": "maxmindMMDB",
+      "action": "output",
+      "args": {
         "outputName": "Country.mmdb",
         "overwriteList": [
           "cn",
+          "private",
           "cloudflare",
           "cloudfront",
           "facebook",
@@ -149,6 +162,14 @@
       "action": "output",
       "args": {
         "outputName": "GeoIP.mmdb"
+      }
+    },
+    {
+      "type": "surgeRuleSet",
+      "action": "output",
+      "args": {
+        "outputDir": "./publish",
+        "wantedList": ["cn", "private"]
       }
     },
     {

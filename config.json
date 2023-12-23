@@ -134,7 +134,7 @@
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
-        "outputName": "GeoIP-CN.mmdb",
+        "outputName": "GeoIP-CN-private.mmdb",
         "wantedList": ["cn", "private"]
       }
     },
